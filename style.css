@@ -1,0 +1,55 @@
+header {
+  
+    background: rgb(230, 10, 10);
+    color: white;
+    border: 5px solid yellow;
+    text-align: center;
+    padding: 10px;
+    text-shadow: 1px 1px 1px black;
+  }
+  
+  nav {
+    background-color: Black;
+    text-align: center;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 24px;
+  }
+  
+  nav a {
+    text-shadow: none;
+    color: white;
+  }
+  
+  main {
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px;
+    min-height: 400px;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    font-family: helvetica, sans-serif;
+    text-align: center;
+    background: rgb(230, 10, 10);
+  }
+  
+  .highlight {
+    background-color: lightyellow;
+  }
+  
+  footer {
+    text-align: center;
+    background: lightgrey;
+    padding: 10px;
+  }
